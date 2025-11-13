@@ -69,6 +69,29 @@ Vertex AI is a unified AI platform that helps you build, deploy, and scale machi
 - **Vertex AI:** [https://cloud.google.com/vertex-ai](https://cloud.google.com/vertex-ai) - The official page for Vertex AI.
 - **Vertex AI Search:** Vertex AI Search can act as a knowledge base for agents, allowing them to retrieve relevant information from various data sources to enhance their responses and decision-making capabilities.
 
+
+## Google Cloud Generative AI with Vertex AI
+
+This repository contains notebooks, code samples, sample apps, and other resources that demonstrate how to use, develop and manage generative AI workflows using Generative AI on Google Cloud with Vertex AI.
+
+- **Google Cloud Generative AI with Vertex AI:** [https://github.com/GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai)
+
+## Google Cloud Vertex AI Creative Studio
+
+GenMedia Creative Studio is a web application showcasing Google Cloud's generative media - Veo, Lyria, Chirp, Gemini 2.5 Flash Image Generation (nano-banana), and Gemini TTS along with custom workflows and techniques for creative exploration and inspiration. We're looking forward to see what you create!
+
+Current featureset
+
+Image: Imagen 3, Imagen 4, Virtual Try-On, Gemini 2.5 Flash Image Generation
+Video: Veo 2, Veo 3
+Music: Lyria
+Speech: Chirp 3 HD, Gemini Text to Speech
+Workflows: Character Consistency, Shop the Look, Starter Pack Moodboard, Interior Designer
+Asset Library
+
+- **Google Cloud Vertex AI Creative Studio:** [https://github.com/GoogleCloudPlatform/vertex-ai-creative-studio](https://github.com/GoogleCloudPlatform/vertex-ai-creative-studio)
+
+
 ## Cloud Run
 
 Cloud Run is a fully managed compute platform that enables you to deploy and scale containerized applications quickly and easily. It abstracts away all infrastructure management, allowing you to focus on writing code. It's ideal for hosting stateless services, web applications, and APIs, including those powered by AI models.
@@ -116,4 +139,3 @@ Gemini TTS (Text-to-Speech) is a powerful service that converts text into natura
 Gemini Live API provides real-time, low-latency access to Gemini models, enabling interactive and dynamic AI experiences. This API is crucial for applications requiring immediate responses, such as live chatbots, interactive voice agents, and real-time content generation.
 
 - **Gemini Live API Documentation:** [https://ai.google.dev/gemini-api/docs/live](https://ai.google.dev/gemini-api/docs/live)
-
