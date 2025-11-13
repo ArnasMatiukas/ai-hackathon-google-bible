@@ -33,7 +33,7 @@ Google AI Studio is a web-based tool that allows developers to quickly prototype
 
 Supervised fine-tuning of Gemini models offers a cost-effective and rapid way to adapt models to specific tasks or domains. By providing a relatively small dataset of labeled examples, you can significantly improve model performance for your particular use case without the need for extensive retraining from scratch. This makes it an agile approach for achieving specialized AI capabilities.
 
-- **About supervised fine-tuning for Gemini models:** [https://cloud.google.com/vertex-ai/docs/generative-ai/models/supervised-fine-tuning](https://cloud.google.com/vertex-ai/docs/generative-ai/models/supervised-fine-tuning)
+- **About supervised fine-tuning for Gemini models:** [https://docs.cloud.google.com/vertex-ai/generative-ai/docs/models/gemini-use-supervised-tuning](https://docs.cloud.google.com/vertex-ai/generative-ai/docs/models/gemini-use-supervised-tuning)
 
 
 ## Agents
